@@ -1,6 +1,5 @@
 package list;
 
-import Math.number_of1;
 
 /**
  * 链表中环 的入口结点

@@ -23,9 +23,7 @@ public class x的平方根 {
 		
 	}
 	
-	public static double mySqrt2(double x) {
-		
-	}
+
 	public static void main(String[] args){
 		System.out.println(mySqrt(5));
 		;
